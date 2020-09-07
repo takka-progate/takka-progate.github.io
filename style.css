@@ -46,7 +46,9 @@ header {
   color: green;
 }
 
-.lesson-icon img{
-  width: 20%;
+.lesson{
+  display: inline-block;
+  width: 19.5%;
   height: 150px;
 }
+
