@@ -46,11 +46,12 @@ header {
   color: green;
 }
 
-.lesson{
-  display: inline-block;
-  width: 19.5%;
-  height: 150px;
-}
+.lesson {
+display: inline-block;
+vertical-align: top;
+width: 19.5%;
+/* height: 150px; */
+} 
 
 img{
   width:100%;
